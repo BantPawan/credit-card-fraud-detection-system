@@ -2,9 +2,11 @@
 
 ## 📋 Project Overview
 
-A comprehensive end-to-end machine learning pipeline for credit card fraud detection, built with real-world data engineering and MLOps best practices. This system processes raw transaction data through feature engineering, model selection, and hyperparameter tuning to create a high-performance fraud detection model.
+A comprehensive end-to-end machine learning pipeline for credit card fraud detection, built with real-world data engineering and MLOps best practices. This system processes raw transaction data through feature engineering, model selection, and hyperparameter tuning to create a high-performance fraud detection model. 
 
-**Key Achievement**: Achieved **0.9916 AUC** and **89% fraud recall** on highly imbalanced transaction data (3.5% fraud rate).
+**Dataset:** Built using the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), which contains anonymized credit card transactions.
+
+**Key Achievement:** Achieved 0.9916 AUC and 89% fraud recall on highly imbalanced transaction data (3.5% fraud rate).
 
 ## 🎯 Business Problem
 
